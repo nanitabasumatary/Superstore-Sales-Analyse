@@ -1,16 +1,66 @@
-Super Store sales dashboard
-This project involved the creation of an interactive Power BI dashboard to analyse 500K+ sales records over a 2-year period for a retail business. The dashboard was designed to deliver meaningful visual insights into sales performance across multiple dimensions — including product category, location, customer segment, payment mode, and time — to assist stakeholders in understanding trends, patterns, and opportunities for growth.
-________________________________________
-Key Features
-•	Data Scope: Analysed a large dataset of 500,000+ transactions across multiple states and categories.
-•	Dashboard Design: Developed an intuitive and visually appealing Power BI dashboard with 7 interactive charts and multiple slicers.
-•	KPI Visualization: Displayed key performance indicators such as total revenue, average daily sales, sales by location, and top-selling products.
-•	User Interaction: Enabled real-time filtering by date, category, payment mode, segment, and state to allow multi-level data exploration.
-•	Dynamic Visuals: Included bar charts, line graphs, stacked columns, and geographic maps to support comprehensive analysis.
-________________________________________
-Key Insights
-•	Top Performing Categories: Beverages and Snacks consistently generated the highest revenue across all locations.
-•	Peak Sales Periods: Sales peaked during festival seasons and end-of-month periods, indicating promotional timing opportunities.
-•	Location-Based Trends: Urban locations outperformed rural ones by 25–30%, suggesting the need for location-specific strategies.
-•	Customer Segments: B2C segments had higher transaction volumes, while B2B orders had higher average order values.
-•	Payment Mode Preference: Digital payments saw a rising trend year-over-year, signaling a shift in customer behaviour.
+# 📊 Super Store Sales Dashboard - Power BI Project
+
+This project focuses on building a dynamic and interactive Power BI dashboard to analyze over **500,000 sales records** from a retail business collected over a two-year span. The goal was to transform raw transactional data into meaningful visual insights that empower stakeholders to make informed decisions around sales strategy, marketing, and inventory planning.
+
+---
+
+## 🔧 Tools & Technologies
+- **Power BI Desktop**
+- **DAX (Data Analysis Expressions)**
+- **Power Query**
+- **Excel (for data preprocessing)**
+
+---
+
+## 🧠 Project Overview
+
+The dashboard was designed to:
+- Provide a high-level overview of total revenue, daily sales trends, and sales by region.
+- Enable multi-dimensional analysis across time, customer segments, product categories, payment modes, and geographical location.
+- Assist business stakeholders in identifying patterns, growth opportunities, and areas needing attention.
+
+---
+
+## 📌 Key Features
+
+- ✅ **Data Scope**: Analyzed **500,000+** transaction records spanning multiple categories and geographic regions.
+- 🎨 **Interactive Dashboard Design**: Created a visually intuitive interface featuring **7 interactive charts** and multiple slicers.
+- 📈 **KPI Visualization**: Included real-time metrics such as:
+  - Total Revenue
+  - Average Daily Sales
+  - Sales by State
+  - Top-Selling Products
+- 🔄 **User Interactivity**: Enabled real-time filtering by:
+  - **Date**
+  - **Product Category**
+  - **Payment Mode**
+  - **Customer Segment**
+  - **State**
+- 🌍 **Dynamic Visuals**:
+  - Bar Charts
+  - Line Graphs
+  - Stacked Column Charts
+  - Geo Maps
+
+---
+
+## 💡 Key Insights Derived
+
+- **Top Categories**: _Beverages_ and _Snacks_ were the highest revenue-generating categories across regions.
+- **Sales Peaks**: Major peaks observed during **festivals** and **end-of-month**, highlighting key periods for promotional activity.
+- **Geographic Trends**: Urban regions outperformed rural by **25–30%**, suggesting need for differentiated strategies.
+- **Customer Segmentation**: 
+  - **B2C** had higher transaction volume.
+  - **B2B** orders showed greater average order values.
+- **Payment Preferences**: Significant rise in **digital payment methods**, indicating a shift in customer behavior.
+
+---
+
+## 📸 Dashboard Snapshots
+
+> _Include images of your dashboard here if possible._
+
+---
+
+## 📂 Folder Structure
+
