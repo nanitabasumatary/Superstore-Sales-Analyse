@@ -58,7 +58,7 @@ The dashboard was designed to:
 
 ## 📸 Dashboard Snapshots
 
-> _Include images of your dashboard here if possible._
+![Sales Dashboard](./SalesDashboard.png)
 
 ---
 
