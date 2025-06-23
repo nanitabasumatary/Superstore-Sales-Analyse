@@ -62,5 +62,3 @@ The dashboard was designed to:
 
 ---
 
-## 📂 Folder Structure
-
