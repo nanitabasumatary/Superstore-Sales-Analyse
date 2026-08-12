@@ -1,10 +1,10 @@
-# 📊 Super Store Sales Dashboard - Power BI Project
+# Super Store Sales Dashboard - Power BI Project
 
 This project focuses on building a dynamic and interactive Power BI dashboard to analyze over **500,000 sales records** from a retail business collected over a two-year span. The goal was to transform raw transactional data into meaningful visual insights that empower stakeholders to make informed decisions around sales strategy, marketing, and inventory planning.
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
 - **Power Query**
@@ -12,7 +12,7 @@ This project focuses on building a dynamic and interactive Power BI dashboard to
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 The dashboard was designed to:
 - Provide a high-level overview of total revenue, daily sales trends, and sales by region.
@@ -21,22 +21,22 @@ The dashboard was designed to:
 
 ---
 
-## 📌 Key Features
+##  Key Features
 
-- ✅ **Data Scope**: Analyzed **500,000+** transaction records spanning multiple categories and geographic regions.
-- 🎨 **Interactive Dashboard Design**: Created a visually intuitive interface featuring **7 interactive charts** and multiple slicers.
-- 📈 **KPI Visualization**: Included real-time metrics such as:
+-  **Data Scope**: Analyzed **500,000+** transaction records spanning multiple categories and geographic regions.
+-  **Interactive Dashboard Design**: Created a visually intuitive interface featuring **7 interactive charts** and multiple slicers.
+-  **KPI Visualization**: Included real-time metrics such as:
   - Total Revenue
   - Average Daily Sales
   - Sales by State
   - Top-Selling Products
-- 🔄 **User Interactivity**: Enabled real-time filtering by:
+-  **User Interactivity**: Enabled real-time filtering by:
   - **Date**
   - **Product Category**
   - **Payment Mode**
   - **Customer Segment**
   - **State**
-- 🌍 **Dynamic Visuals**:
+-  **Dynamic Visuals**:
   - Bar Charts
   - Line Graphs
   - Stacked Column Charts
@@ -44,7 +44,7 @@ The dashboard was designed to:
 
 ---
 
-## 💡 Key Insights Derived
+##  Key Insights Derived
 
 - **Top Categories**: _Beverages_ and _Snacks_ were the highest revenue-generating categories across regions.
 - **Sales Peaks**: Major peaks observed during **festivals** and **end-of-month**, highlighting key periods for promotional activity.
@@ -56,7 +56,7 @@ The dashboard was designed to:
 
 ---
 
-## 📸 Dashboard Snapshots
+##  Dashboard Snapshots
 
 ![Sales Dashboard](./SalesDashboard.png)
 
