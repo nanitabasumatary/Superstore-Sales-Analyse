@@ -1,4 +1,4 @@
-# Super Store Sales Dashboard - Power BI Project
+# Sales analysis Dashboard - Power BI Project
 
 This project focuses on building a dynamic and interactive Power BI dashboard to analyze over **500,000 sales records** from a retail business collected over a two-year span. The goal was to transform raw transactional data into meaningful visual insights that empower stakeholders to make informed decisions around sales strategy, marketing, and inventory planning.
 
@@ -23,7 +23,7 @@ The dashboard was designed to:
 
 ##  Key Features
 
--  **Data Scope**: Analyzed **500,000+** transaction records spanning multiple categories and geographic regions.
+-  **Data Scope**: Analyzed **500+** transaction records spanning multiple categories and geographic regions.
 -  **Interactive Dashboard Design**: Created a visually intuitive interface featuring **7 interactive charts** and multiple slicers.
 -  **KPI Visualization**: Included real-time metrics such as:
   - Total Revenue
