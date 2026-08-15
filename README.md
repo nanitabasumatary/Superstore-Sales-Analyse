@@ -1,4 +1,4 @@
-# Sales analysis Dashboard - Power BI Project
+# Superstore sales analyse  - Power BI Project
 
 This project focuses on building a dynamic and interactive Power BI dashboard to analyze over **500,000 sales records** from a retail business collected over a two-year span. The goal was to transform raw transactional data into meaningful visual insights that empower stakeholders to make informed decisions around sales strategy, marketing, and inventory planning.
 
